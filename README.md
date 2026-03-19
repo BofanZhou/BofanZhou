@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi there, I'm 周博凡 (Bofan Zhou)
 
-<!--
-**BofanZhou/BofanZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**中国矿业大学 | 建筑环境与能源应用工程 | 本科一年级**
 
-Here are some ideas to get you started:
+**当前目标**：寻求 2028 Fall 建筑技术科学或能源系统方向的 **Direct PhD** 机会
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ About Me
+
+我是中国矿业大学**建筑环境与能源应用工程**专业的本科一年级学生，致力于探索**建筑能源系统**与**人工智能**的交叉领域。
+
+与传统建环工程师不同，我畅想将现代计算机技术与传热动力学结合。时代需要新一代既懂传热学又懂算法的研究者。
+
+---
+
+## 📚 Current Academic Journey
+
+### 🎓 本科课程（进行中）
+- **传热学** → 探索热阻网络与图神经网络的数学同构性
+- **流体力学** → 学习矿井通风网络的风压平衡算法
+- **工程热力学** → 思考㶲分析与机器学习优化目标的结合点
+- **建筑环境学** → 记录热舒适性与能耗的矛盾权衡
+
+### 🔬 自主研究探索
+- 复现经典算法
+- 数据整理
+- 计算机技术
+
+
+## 🎯 2026 Roadmap
+  - **A** [大一春: 数学基础代码化] 
+  - **B** [大一夏: 进实验室]
+  - **C** [大二: 参与导师项目]
+  - **D** [大三: 产出论文/专利]
+  - **E** [大四上: 直博申请]
+
+## 📫 Contact Me
+
+### 学术联络
+- **邮箱**: [02255102@cumt.edu.cn](02255102@cumt.edu.cn) 
+- **个人主页**:
+- **地址**: 江苏省徐州市大学路1号，中国矿业大学南湖校区 力学与土木工程学院
+
+### 欢迎交流的话题
+如果你也关注以下领域，欢迎与我探讨：
+- 🔥 **建筑能源系统优化**（负荷预测、能耗模拟、零能耗建筑技术）
+- 🤖 **AI for Science**（物理信息神经网络、强化学习在HVAC中的应用）
+- 🎓 **本科科研训练**（直博规划、建环专业的前沿交叉方向）
+
+&gt; 期待与师长同学共同探讨 Built Environment 的智能化未来。
