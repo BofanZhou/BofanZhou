@@ -52,16 +52,26 @@
 <!--RECENT_ACTIVITY:end-->
 
 ## 📚 核心仓库导航
-| 算法体系 | 项目落地 | 技术沉淀 |
-|---------|---------|---------|
-| [📊 LeetCode 题解] <br> 收录 个人解题题解，按模式分类 | [⚙️ Project A] <br> 心理学自测软件实践 | [📝 Tech Notes]<br> 数据结构 + 源码阅读 |
-| **特色**：每个题解含详细推导 + 相似题索引 | **标签**：以练促学 | **更新**：每周 1-2 篇 |
+| 算法体系 | 项目落地 | 技术沉淀 | 个人品牌 |
+|:---------|:---------|:---------|:---------|
+| **[Algorithms-Notes](https://github.com/BofanZhou/Algorithms-Notes)**<br>算法笔记与体系化学习 | **[MindCode](https://github.com/BofanZhou/MindCode)**<br>思维编程与代码实践 | **[Tech-Learning](https://github.com/BofanZhou/Tech-Learning)**<br>技术积累与知识沉淀 | **[bofan.me](https://github.com/BofanZhou/bofan.me)**<br>🔒 个人网站（私有） |
+| | |
 
+---
+
+### 📊 仓库全景图
+```text
+BofanZhou/
+├── 🧠 Algorithms-Notes/     # 算法体系 · 公开
+├── 💡 MindCode/             # 项目落地 · 公开
+├── 📚 Tech-Learning/        # 技术沉淀 · 公开
+└── 🔒 bofan.me/             # 个人网站 · 私有
+```
 ## 📫 Contact Me
 
 ### 学术联络
 - **邮箱**: [02255102@cumt.edu.cn](02255102@cumt.edu.cn) 
-- **个人主页**:[bofan.me](bofan.me) 
+- **个人主页**:[bofan.me](https://bofan.me/) 
 - **地址**: 江苏省徐州市大学路1号，中国矿业大学南湖校区 力学与土木工程学院
 
 ### 欢迎交流的话题
@@ -72,5 +82,9 @@
 - 学习自动化
 - 🎓 **本科科研训练**
 - 导师选择，项目落地
+- 📝 **文学创作**
+- 散文，小说，杂文
+- 📷 **摄影**
+- 后期，人文摄影，风光拍摄 
 
-&gt; 期待与师长同学共同探讨 Built Environment 的智能化未来。
+
