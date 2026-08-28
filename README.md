@@ -1,89 +1,47 @@
-## 👋 Hi there, I'm 周博凡 (Bofan Zhou)
+# 你好，我是周博凡 (Bofan Zhou)
 
-**中国矿业大学 | 建筑环境与能源应用工程 | 本科二年级**
+**HVAC undergrad @ CUMT | Thermal management × ML for Energy | I build the tools I wish existed**
 
-**当前目标**：寻求 2028 Fall 计算流体力学和系统热设计管理的 **Direct PhD** 机会
+- 中国矿业大学 · 建筑环境与能源应用工程 · 2025 级本科（大二在读）
+- 兴趣方向：热管理与系统设计 · AI for Science / ML4Energy —— CFD 与数值计算是我做研究的工具
+- 长期目标：Direct PhD（2028 Fall 申请季启动，国内外课题组都在看）
+- 主力 Python，C/C++ 有课程基础；习惯用 Claude Code 等 AI 编程工作流，把想法一路推进到能跑、能用、能演示
 
-## 🏛️ About Me
+## 精选项目
 
-我是中国矿业大学**建筑环境与能源应用工程**专业的本科一年级学生，致力于探索**能源系统**与**计算科学**的交叉领域。
+### [PaperReader](https://github.com/BofanZhou/PaperReader)
 
-我正在积极地学习文理知识、机器学习与数据分析，同时学习工程热力学等能源核心课程。除此之外我也对许多事情充满热情,摄影,写作,音乐,我正在积极地进行自我革新,不落后于时代也努力让生活充满乐趣
+**双语 AI 学术论文阅读器**（Windows 桌面应用，Tauri 2 + React + Rust）
 
----
+> 起因很简单：我不想再给论文阅读器充会员了。
 
-## 📚 Current Academic Journey
+- 一键导入 PDF，自动解析标题层级、图片与表格；四种视图：原图 / AI 重排 / 译文 / 对照
+- 集成 DeepSeek / Kimi 按量翻译，10 页论文整篇约 ¥0.05，翻译结果本地缓存、不重复扣费
+- 选中文本即可翻译、高亮、笔记、AI 讨论（自动注入上下文）；API Key 由系统 Keyring 加密存储
+- 桌面端原生打包，安装包小、启动快、离线可读
 
-### 🎓 本科课程（进行中）
-- **传热学** → 
-- **流体力学** → 
-- **工程热力学** → 
-- **数值计算** → 
+### [Rebound-Cloud-Control](https://github.com/BofanZhou/Rebound-Cloud-Control)
 
-### 🔬 自主研究探索
-- 复现经典算法
-- 数据整理
-- 计算机技术
-- 机器学习
-- 分析心理学
-- 数学建模
+**钢管折弯回弹补偿云控平台** —— 从设备监控、参数推荐到在线训练的完整闭环（学科竞赛作品 · 软件著作权申请中）
 
-### 兴趣延伸
-- 应用心理学
-- 分析哲学
-- 风光摄影
-- 写作
+- 设备状态实时监控（WebSocket 推送）、回弹补偿参数推荐、折弯作业历史管理与导出
+- 上传数据集在线训练 PyTorch 模型并迭代预测；多机管理 + 角色权限
+- Vue 3 + FastAPI + PyTorch，Vercel / Fly.io 部署
 
+### [Awesome-agent-skills-zh](https://github.com/BofanZhou/Awesome-agent-skills-zh)
 
-## 🎯 2026-2029 Roadmap
-  - **A** 大一春: 数学基础代码化
-  - **B** 大一夏: 进实验室
-  - **C** 大二: 参与导师项目
-  - **D** 大三: 产出论文/专利
-  - **E** 大四上: 直博申请
+精选可用的 AI Agent Skills 中文清单：按用途分类、保留英文术语、少而精可上手，适用于 Claude Code / Codex 等 Agent 环境。
 
-## 🚀 最近在忙什么
-<!-- 用 GitHub Actions 自动更新最近提交 -->
-<!--RECENT_ACTIVITY:start-->
-- 📝 更新 [算法笔记] 
-- 🛠️ 重构 算法学习模式
-- ✅ 完成 LeetCode 题解
-<!--RECENT_ACTIVITY:end-->
+## 正在做
 
-## 📚 核心仓库导航
-| 算法体系 | 项目落地 | 技术沉淀 | 个人品牌 |
-|:---------|:---------|:---------|:---------|
-| **[Algorithms-Notes](https://github.com/BofanZhou/Algorithms-Notes)**<br>算法笔记与体系化学习 | **[MindCode](https://github.com/BofanZhou/MindCode)**<br>思维编程与代码实践 | **[Tech-Learning](https://github.com/BofanZhou/Tech-Learning)**<br>技术积累与知识沉淀 | **[bofan.me](https://github.com/BofanZhou/bofan.me)**<br>🔒 个人网站（私有） |
-| | |
+- 已加入课题组，正在参与大学生创新创业训练计划（大创）项目
+- PaperReader v0.2：句子级中英对照高亮 · 笔记系统 · 本地语义检索
 
----
+## 联系我
 
-### 📊 仓库全景图
-```text
-BofanZhou/
-├── 🧠 Algorithms-Notes/     # 算法体系 · 公开
-├── 💡 MindCode/             # 项目落地 · 公开
-├── 📚 Tech-Learning/        # 技术沉淀 · 公开
-└── 🔒 bofan.me/             # 个人网站 · 私有
-```
-## 📫 Contact Me
+- 02255102@cumt.edu.cn
+- [bofan.me](https://bofan.me)
 
-### 学术联络
-- **邮箱**: [02255102@cumt.edu.cn](02255102@cumt.edu.cn) 
-- **个人主页**:[bofan.me](https://bofan.me/) 
-- **地址**: 江苏省徐州市大学路1号，中国矿业大学南湖校区 力学与土木工程学院
-
-### 欢迎交流的话题
-如果你也关注以下领域，欢迎与我探讨：
-- 🔥 **社会科学**
-- 心理学，全球历史，哲学
-- 🤖 **AI for Science**
-- 学习自动化
-- 🎓 **本科科研训练**
-- 导师选择，项目落地
-- 📝 **文学创作**
-- 散文，小说，杂文
-- 📷 **摄影**
-- 后期，人文摄影，风光拍摄 
+欢迎交流：热管理 · AI for Science · AI 编程工作流 —— 或者，你也有一个想亲手做出来的东西。
 
 
