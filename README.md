@@ -41,7 +41,7 @@
 
 - 02255102@cumt.edu.cn
 - [bofan.me](https://bofan.me)
--　微信公众号【Bofan的烩饭日记】
+- 微信公众号【Bofan的烩饭日记】
 
 欢迎交流：热管理 · AI for Science · AI 编程工作流 —— 或者，你也有一个想亲手做出来的东西。
 
