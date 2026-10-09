@@ -3,9 +3,9 @@
 **HVAC undergrad @ CUMT | Thermal management × ML for Energy | I build the tools I wish existed**
 
 - 中国矿业大学 · 建筑环境与能源应用工程 · 2025 级本科（大二在读）
-- 兴趣方向：热管理与系统设计 · AI for Science / ML4Energy —— CFD 与数值计算是我做研究的工具
-- 长期目标：Direct PhD（2028 Fall 申请季启动，国内外课题组都在看）
-- 主力 Python，C/C++ 有课程基础；习惯用 Claude Code 等 AI 编程工作流，把想法一路推进到能跑、能用、能演示
+- 兴趣方向：performance computing · AI for Science / ML4Energy —— CFD 
+- 长期目标：AI for Eng
+- 主力 Python，C/C++ ,会使用一系列工程软件
 
 ## 精选项目
 
@@ -34,8 +34,7 @@
 
 ## 正在做
 
-- 已加入课题组，正在参与大学生创新创业训练计划（大创）项目
-- PaperReader v0.2：句子级中英对照高亮 · 笔记系统 · 本地语义检索
+- 已加入道桥系课题组，研究基于深度学习的山岭隧道运营期衬砌结构表观病害（裂缝）智能识别技术研究
 
 ## 联系我
 
@@ -43,6 +42,5 @@
 - [bofan.me](https://bofan.me)
 - 微信公众号【Bofan的恰饭日记】
 
-欢迎交流：热管理 · AI for Science · AI 编程工作流 —— 或者，你也有一个想亲手做出来的东西。
 
 
